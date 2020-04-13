@@ -1,0 +1,6 @@
+modelo-db/node_modules
+modelo-db/config.js
+modelo-api/node_modules
+modelo-api/package-lock.json
+modelo-db/package-lock.json
+modelo-api/npm-debug.log
