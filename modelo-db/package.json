@@ -1,0 +1,11 @@
+{
+  "name": "modelo-db",
+  "version": "1.0.0",
+  "description": "DB Modelo Project Heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrés Gómez",
+  "license": "MIT"
+}
